@@ -19,7 +19,7 @@ The repository directory structure is as follows:
 
 **StrataScratch SQL Questions:**
 
-This directory contains the solution PostgreSQL scripts for the challenges mentioned in the **Solution Scripts** table.
+This directory contains the solution MS Sql Server scripts for the challenges mentioned in the **Solution Scripts** table.
 
 
 In the below table, the columns indicate the following attributes related to the challenge:
