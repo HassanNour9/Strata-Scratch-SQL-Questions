@@ -32,26 +32,9 @@ In the below table, the columns indicate the following attributes related to the
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
-| 01 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Compressed%20Mean.sql)
-| 02 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Cities%20With%20Completed%20Trades.sql)
-| 03 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Page%20With%20No%20Likes.sql)
-| 04 | [Laptop vs Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Laptop%20vs.%20Mobile%20Viewership.sql)
-| 05 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Teams%20Power%20Users.sql)
-| 06 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Histogram%20of%20Tweets.sql)
-| 07 | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Cards%20Issued%20Difference.sql)
-| 08 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Duplicate%20Job%20Listings.sql)
-| 09 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Average%20Post%20Hiatus%20(Part%201).sql)
-| 10 | [App Clickthrough Rate (CTR)](https://datalemur.com/questions/click-through-rate) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/App%20Click-through%20Rate%20(CTR).sql)
-| 11 | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Pharmacy%20Analytics%20(Part%201).sql)
-| 12 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Data%20Science%20Skills.sql)
-| 13 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | [Solution](https://github.com/HassanNour/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Pharmacy%20Analytics%20(Part%202).sql)
-| 14 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Average%20Review%20Ratings.sql)
-| 15 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Unfinished%20Parts.sql)
-| 16 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Pharmacy%20Analytics%20(Part%203).sql)
-| 17 | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Second%20Day%20Confirmation.sql)
-| 18 | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Patient%20Support%20Analysis%20(Part%201).sql)
-| 19 | [Average Deal Size (Part 1)](https://datalemur.com/questions/sql-average-deal-size) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Average%20Deal%20Size%20(Part%201).sql)
-| 20 | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Patient%20Support%20Analysis%20(Part%202).sql)
+| 01 | [Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Easy/Salaries%20Differences.sql)
+| 01 | [Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Easy/Salaries%20Differences.sql)
+
 
 
 #### Difficulty Level : Medium
