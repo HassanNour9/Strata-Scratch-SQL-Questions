@@ -33,7 +33,8 @@ In the below table, the columns indicate the following attributes related to the
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
 | 01 | [Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Easy/Salaries%20Differences.sql)
-| 01 | [Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Easy/Salaries%20Differences.sql)
+| 02 | [Bikes Last Used](https://platform.stratascratch.com/coding/10176-bikes-last-used?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Easy/Bikes%20Last%20Used.sql)
+| 03 | [Finding Updated Records](https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Easy/Finding%20Updated%20Records.sql)
 
 
 
@@ -41,21 +42,20 @@ In the below table, the columns indicate the following attributes related to the
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
-| 01 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/User's%20Third%20Transaction.sql)
-| 02 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Sending%20vs.%20Opening%20Snaps.sql)
-| 03 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Odd%20and%20Even%20Measurements.sql)
-| 04 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Highest-Grossing%20Items.sql)
-| 05 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Top%205%20Artists.sql)
-| 06 | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Signup%20Activation%20Rate.sql)
-| 07 | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Supercloud%20Customer.sql)
-| 08 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Histogram%20of%20Users%20and%20Purchases.sql)
-| 09 | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Compressed%20Mode.sql)
-| 10 | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Card%20Launch%20Success.sql)
+| 01 | [Number Of Units Per Nationality](https://platform.stratascratch.com/coding/10156-number-of-units-per-nationality?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Number%20Of%20Units%20Per%20Nationality.sql)
+| 02 | [Users By Average Session Time](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Users%20By%20Average%20Session%20Time.sql)
+| 03 | [Income By Title and Gender](https://platform.stratascratch.com/coding/10077-income-by-title-and-gender?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Income%20By%20Title%20and%20Gender.sql)
+| 04 | [Employee and Manager Salaries](https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Employee%20and%20Manager%20Salaries.sql)
+| 05 | [Ranking Most Active Guests](https://platform.stratascratch.com/coding/10159-ranking-most-active-guests?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Ranking%20Most%20Active%20Guests.sql)
+| 06 | [Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Workers%20With%20The%20Highest%20Salaries.sql)
+| 07 | [Most Profitable Companies](https://platform.stratascratch.com/coding/10354-most-profitable-companies?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Most%20Profitable%20Companies.sql)
+| 08 | [Reviews of Categories](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Reviews%20of%20Categories.sql)
+| 09 | [Finding User Purchases](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Finding%20User%20Purchases.sql)
+
 
 #### Difficulty Level : Hard
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
-| 01 | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](https://github.com/HassanNour9/DataLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Hard/Y-on-Y%20Growth%20Rate.sql)
 
 
