@@ -1,13 +1,4 @@
 
----
-
-<h4 align="center">Solutions for <a href="" target="_blank">SQL</a> Challenges hosted on <a href="https://www.stratascratch.com?referralCode=hRH4ho3l" target="_blank">StrataScratch</a> </h4>
-
-<p align="center">
-  <a href="#overview">Overview</a> •
-  <a href="#content">Contents</a> •
-</p>
-
 ## Overview
 
 This repository contains my solutions for the SQL challenges posted on [StrataScratch](https://platform.stratascratch.com/coding?code_type=5) website. The solution queries are executed on the integrated MS SQL Server environment on the same website.
