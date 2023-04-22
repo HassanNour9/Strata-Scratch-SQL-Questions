@@ -42,6 +42,7 @@ In the below table, the columns indicate the following attributes related to the
 | 07 | [Most Profitable Companies](https://platform.stratascratch.com/coding/10354-most-profitable-companies?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Most%20Profitable%20Companies.sql)
 | 08 | [Reviews of Categories](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Reviews%20of%20Categories.sql)
 | 09 | [Finding User Purchases](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Finding%20User%20Purchases.sql)
+| 10 | [Highest Target Under Manager](https://platform.stratascratch.com/coding/9905-highest-target-under-manager?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Medium/Highest%20Target%20Under%20Manager.sql)
 
 
 #### Difficulty Level : Hard
