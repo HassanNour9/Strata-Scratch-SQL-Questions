@@ -49,5 +49,8 @@ In the below table, the columns indicate the following attributes related to the
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
-
+| 01 | [Counting Instances in Text](https://platform.stratascratch.com/coding/9814-counting-instances-in-text?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Hard/Counting%20Instances%20in%20Text.sql)
+| 02 | [Premium vs Freemium](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Hard/Premium%20vs%20Freemium.sql)
+| 03 | [Host Popularity Rental Prices](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Hard/Host%20Popularity%20Rental%20Prices.sql)
+| 04 | [Monthly Percentage Difference](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=5) | [Solution](https://github.com/HassanNour9/Strata-Scratch-SQL-Questions/blob/main/Hard/Monthly%20Percentage%20Difference.sql)
 
